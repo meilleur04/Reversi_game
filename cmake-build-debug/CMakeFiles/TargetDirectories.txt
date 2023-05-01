@@ -1,0 +1,3 @@
+/Users/gurmannsinghjaggi/CLionProjects/trial/cmake-build-debug/CMakeFiles/trial.dir
+/Users/gurmannsinghjaggi/CLionProjects/trial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gurmannsinghjaggi/CLionProjects/trial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
